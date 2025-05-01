@@ -1,2 +1,0 @@
-# Virtual Environment and Dependencies
-
